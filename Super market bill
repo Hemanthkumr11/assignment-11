@@ -1,0 +1,21 @@
+bill=int(input('enter the bill')
+if(bill> 5000):
+  disc=bill*10/100
+  tax=bill*18/100
+elif(bill>3000):
+   disc=bill*8/100
+    tax=bill*18/100
+elif(bill>2000):
+    disc=bill*3/100
+    tax=bill*15/100
+main bill=bill-tax+discount
+Print('main bill:',main bill)
+
+
+  
+
+
+ 
+
+
+
